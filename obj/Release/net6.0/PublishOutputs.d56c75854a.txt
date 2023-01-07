@@ -1,0 +1,13 @@
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\DynamicsCF.exe
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\DynamicsCF.dll
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\DynamicsCF.deps.json
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\DynamicsCF.runtimeconfig.json
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\DynamicsCF.pdb
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maula\OneDrive\Escritorio\CastroFallas\DynamicsCF\DynamicsCF\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
